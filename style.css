@@ -3,20 +3,28 @@
 :root {
   --color-primary: #ffa500;
   --color-secondary: #ff6d4c;
-  --color-base-100: #0f0f0f;
+  --color-background: #0f0f0f;
   --color-text: #eeeeee;
   --color-text-gray: #878787;
+}
+
+html {
+  border-left: 20px solid var(--color-primary);
+  
 }
 
 body {
   font-family: "Roboto", sans-serif;
   /* font-family: "Roboto Mono", monospace; */
-  background-color: var(--color-base-100);
+  background-color: var(--color-background);
   color: var(--color-text);
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
   margin-left: 10%;
   margin-right: 10%;
+
 }
 
 a {
@@ -50,6 +58,14 @@ section h1 {
 }
 
 .hashtag {
-  color: var(--color-secondary);
+  /* color: var(--color-secondary); */
   font-weight: 900;
+}
+
+/*  */
+.main-header {
+}
+
+.main-content {
+  max-width: 800px;
 }
