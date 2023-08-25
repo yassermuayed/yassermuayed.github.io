@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "name": "Project 1",
+        "description": "Description 1",
+        "url": "https://www.google.com",
+        "screenshots": [
+            {
+                "src": "The src to your screenshot, such as https://www.google.com",
+                "sizes": "The size of your screenshot, such as 2880x1800",
+                "type": "The type of your image, such as image/png",
+                "description": "The type of your image, such as image/png"
+            }
+        ],
+        "tags": [
+            "tag 1",
+            "tag 2",
+            "tag 3"
+        ],
+        "github": "https://github.com",
+        "live": "https://www.google.com",
+        "writeup": "https://www.google.com",
+        "license": "https://www.google.com"
+    },
+    {
+        "id": 1,
+        "name": "Project 1",
+        "description": "Description 1",
+        "url": "https://www.google.com",
+        "screenshots": [
+            {
+                "src": "The src to your screenshot, such as https://www.google.com",
+                "sizes": "The size of your screenshot, such as 2880x1800",
+                "type": "The type of your image, such as image/png",
+                "description": "The type of your image, such as image/png"
+            }
+        ],
+        "tags": [
+            "tag 1",
+            "tag 2",
+            "tag 3"
+        ],
+        "github": "https://github.com",
+        "live": "https://www.google.com",
+        "writeup": "https://www.google.com",
+        "license": "https://www.google.com"
+    },
+    {
+        "id": 1,
+        "name": "Project 1",
+        "description": "Description 1",
+        "url": "https://www.google.com",
+        "screenshots": [
+            {
+                "src": "The src to your screenshot, such as https://www.google.com",
+                "sizes": "The size of your screenshot, such as 2880x1800",
+                "type": "The type of your image, such as image/png",
+                "description": "The type of your image, such as image/png"
+            }
+        ],
+        "tags": [
+            "tag 1",
+            "tag 2",
+            "tag 3"
+        ],
+        "github": "https://github.com",
+        "live": "https://www.google.com",
+        "writeup": "https://www.google.com",
+        "license": "https://www.google.com"
+    }
+]
