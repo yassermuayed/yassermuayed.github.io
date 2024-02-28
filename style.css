@@ -3,14 +3,9 @@
 :root {
   --color-primary: #ffa500;
   --color-secondary: #ff6d4c;
-  --color-background: #0f0f0f;
-  --color-text: #eeeeee;
+  --color-background: #191919;
+  --color-text: #cbcbcb;
   --color-text-gray: #878787;
-}
-
-html {
-  border-left: 20px solid var(--color-primary);
-  
 }
 
 body {
@@ -24,7 +19,6 @@ body {
   align-items: center;
   margin-left: 10%;
   margin-right: 10%;
-
 }
 
 a {
@@ -41,14 +35,6 @@ footer {
   text-align: center;
   margin-top: 4rem;
 }
-/* footer::before {
-  content: "";
-  display: block;
-  margin: 10px auto;
-  width: 80%;
-  height: 1px;
-  background-color: var(--color-text);
-}  */
 
 section {
   margin-top: 6rem;
@@ -60,10 +46,6 @@ section h1 {
 .hashtag {
   /* color: var(--color-secondary); */
   font-weight: 900;
-}
-
-/*  */
-.main-header {
 }
 
 .main-content {
