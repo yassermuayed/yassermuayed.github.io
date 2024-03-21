@@ -1,12 +1,13 @@
 # My Projects
 
-Coming soon, cool projects and games.
+## Patterns Generator
 
-## Open Source
+Coming soon a killer patterns generator that create SVG Cut files. The advantage? all design are either imposabble to make by a human or will take them a long time.
 
-For a list of open source projects, check out my [Github](https://github.com/yassermuayed)
+![Arabic Pattern Image](arabic_patterns.jpg)
 
-## Live Demos
+## Creative Coding TV
 
-- Fun little [Mini Projects](https://yassermuayed.github.io/mini_projects/)
-- [Classic Memory Game](http://memory-game-test.pages.dev/)
+Coming soon. mesmerizing videos of mathematical and physics simulation with music.
+
+**and more to come soon.**

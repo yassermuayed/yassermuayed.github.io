@@ -649,3 +649,12 @@ ul#searchresults span.teaser em {
   margin-inline-start: -14px;
   width: 14px;
 }
+
+
+/* my stuff */
+.note {
+  outline: var(--fg) 1px solid;
+  padding: 2rem 1rem;
+  border-radius: 0.5rem;
+  margin: 5rem 0;
+}
