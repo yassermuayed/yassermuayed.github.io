@@ -1,0 +1,10 @@
+[book]
+title = "Yasser Muayed"
+authors = ["Yasser Muayed"]
+description = "Yasser Muayed's Study Notes"
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html.print]
+enable = false
