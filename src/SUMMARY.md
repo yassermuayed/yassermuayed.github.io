@@ -2,6 +2,7 @@
 
 [Welcome!](./README.md)
 [My Projects](./prefix/projects.md)
+[Dev Log](./prefix/devlog.md)
 [Contact Me](./prefix/contact.md)
 
 ---
