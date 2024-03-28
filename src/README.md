@@ -12,7 +12,7 @@ As a multidisciplinary person who loves to work on new/different things I have s
 
 My long term goal is to contribute to [Computational Linguistics](https://en.wikipedia.org/wiki/Computational_linguistics) research and push the frontiers towards an AGI.
 
-![An image from a project I'm making](pattren%20(1).png)
+![An image from a project I'm making](images/pattren%20(1).png)
 
 The [Web platform](https://en.wikipedia.org/wiki/Web_platform) is my passion and main tool to build my projects. And I believe in the power of the web as the final frontier and recommend any one looking to start a business to use it.
 
