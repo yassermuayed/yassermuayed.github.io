@@ -1,6 +1,6 @@
 # Welcome
 
-These are web pages of Yasser Muayed, an entrepreneur, web developer, linguist, among other things. Here you will find information about [my work](./prefix/projects.md), methods to [contact me](./prefix/contact.md) and find me online, and most importantly my **Study Notes**.
+These are the web pages of Yasser Muayed, an entrepreneur, web developer, linguist, among other things. Here you will find information about [my work](./prefix/projects.md), methods to [contact me](./prefix/contact.md) and find me online, and most importantly my **Study Notes**.
 
 <div class="note">
     I keep my study notes well organized and at a minimum , they are an <i>extension of my brain</i>. unlike a normal blog I don&apos;t use SEO tricks or put low quality content to increase traffic and so on. Only the most important things make it to my study notes.
